@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
+    text-align: left;
     background-color: #f3a9a9d3;
     color: #333;
     margin: 0;
@@ -20,13 +20,13 @@ main {
 
 img {
     max-width: 100%;
-    height: auto;
-    border-radius: 10px;
+    height: left;
+    border-radius: 30px;
     margin: 20px 0;
 }
 
 p {
     font-size: 18px;
     max-width: 600px;
-    margin: auto;
+    margin: left;
 }
